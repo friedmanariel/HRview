@@ -1,1 +1,1 @@
-Download HRview from here: https://github.com/friedmanariel/HRview/releases
+Download: https://github.com/friedmanariel/HRview/releases
