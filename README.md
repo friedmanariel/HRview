@@ -1,0 +1,2 @@
+# 
+HRview has been developed to simplify the Fourier transform alternating current voltammetry (FTaCV) technique and expedite the analysis of its results. By simply importing raw data, HRview can automatically display the power spectrum and harmonics without any prior data manipulation. Additionally, HRview provides a suit for a simulation software called MECSim, which can be run and displayed through the HRview interface. With HRview's all-in-one approach, there is no need to use multiple software programs, as it enables complete data analysis with just one software.
