@@ -2,6 +2,6 @@ HRview is a specialized software tool that allows for thorough analysis of resul
 
 The most updated version can be found in the releases: https://github.com/friedmanariel/HRview/releases
 
-It is recommended to install HRview in the default folder (...AppData\Local\) or a similar folder which does not require an administrator privileges.
+It is recommended to install HRview in the default folder (...AppData\Local\) or a similar folder which does not require administrator privileges.
 
 MECsim can be downloaded from Gareth Kennedy's page on GitHub: https://github.com/garethkennedy/MECSim_Analytics/blob/master/MECSim.exe
