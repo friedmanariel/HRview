@@ -6,4 +6,6 @@ It is recommended to install HRview in the default folder (...AppData\Local\) or
 
 To ensure appropriate acknowledgment in published manuscripts, kindly reference this paper - "A Simplified FTacV Model for Evaluating the Electrochemically Active Site Density in PGM-free ORR Catalysts", https://doi.org/10.1016/j.electacta.2023.142865
 
+Comments and improvement suggestions can be sent to - m.friedman@northeastern.edu
+
 MECsim can be downloaded from Gareth Kennedy's page on GitHub: https://github.com/garethkennedy/MECSim_Analytics/blob/master/MECSim.exe
